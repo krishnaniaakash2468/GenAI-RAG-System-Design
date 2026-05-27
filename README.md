@@ -36,3 +36,6 @@ Latency: The use of Semantic Caching ensures the system remains responsive under
 Accuracy: By moving away from naive RAG and introducing a Re-ranker, we ensure the model is grounded in verified, highly relevant context.
 
 Scalability: The decoupled, modular design allows individual components (like the vector database or LLM) to be upgraded or scaled without re-architecting the entire pipeline.
+
+Other Projects
+JourneyLens (AI Content Creator): An exploration of prompt chaining and rapid application prototyping via PartyRock. View Project
